@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1889.7639"
+   height="1889.7639"
+   viewBox="0 0 500 500.00005"
+   version="1.1"
+   id="svg1100"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="workinprogress.svg"
+   inkscape:export-filename="MATEREOSPACE\logo.png"
+   inkscape:export-xdpi="20"
+   inkscape:export-ydpi="20"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs1094" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.08"
+     inkscape:cx="-10925"
+     inkscape:cy="15318.75"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:pagecheckerboard="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1111"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <metadata
+     id="metadata1097">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-4198.033,2055.224)">
+    <g
+       transform="matrix(0.55539262,0,0,0.74168397,5780.8681,-3869.6786)"
+       id="g1152-6-5-7-1">
+      <rect
+         style="opacity:1;fill:#e42618;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect1102-4-2-8-0"
+         width="396.24405"
+         height="82.229607"
+         x="-2597.9287"
+         y="2682.5583"
+         ry="40.44849"
+         rx="40.44849" />
+      <rect
+         style="opacity:1;fill:#e42618;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect1102-0-1-5-9-4"
+         width="396.24405"
+         height="82.229607"
+         x="-2597.9287"
+         y="2860.4343"
+         ry="40.448498"
+         rx="54.015846" />
+      <rect
+         style="opacity:1;fill:#e42618;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect1102-8-0-7-0-4"
+         width="396.24405"
+         height="82.229607"
+         x="-2597.9287"
+         y="3038.3103"
+         ry="40.448498"
+         rx="54.015846" />
+    </g>
+    <g
+       style="fill:#0a87a3;fill-opacity:1"
+       id="g1777-1"
+       transform="translate(4375.1446,30.44348)"
+       inkscape:export-filename="MATEREOSPACE\matereo_space_logo.svg"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20">
+      <rect
+         y="-2085.6675"
+         x="-177.11151"
+         height="500"
+         width="80"
+         id="rect1098-16-5"
+         style="opacity:1;fill:#0a87a3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:15.4224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <rect
+         transform="rotate(90)"
+         y="-322.88852"
+         x="-2085.6675"
+         height="500"
+         width="80"
+         id="rect1098-7-4-2"
+         style="opacity:1;fill:#0a87a3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:15.4224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <rect
+         transform="scale(-1)"
+         y="1585.6675"
+         x="-322.88852"
+         height="500"
+         width="80"
+         id="rect1098-7-7-6-2"
+         style="opacity:1;fill:#0a87a3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:15.4224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+    </g>
+  </g>
+</svg>
